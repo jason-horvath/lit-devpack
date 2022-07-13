@@ -1,0 +1,10 @@
+{
+  "name": "lit-devpack",
+  "version": "1.0.0",
+  "description": "Lit boiler plate with webpack and Typescript",
+  "main": "src/index.js",
+  "repository": "https://github.com/jason-horvath/lit-devpack",
+  "author": "Jason Horvath",
+  "license": "MIT",
+  "private": false
+}
